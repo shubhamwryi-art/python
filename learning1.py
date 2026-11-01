@@ -1,0 +1,18 @@
+# print("hello world")
+# print("hello world")
+# print("hello world")
+# print("hello world")
+# a = float(input())
+# b = float(input())
+# c = a+b
+# print(type(c))
+# print(c)
+# a = int(input("side of the square: "))
+# print("Area of the square is:", (a**2),   (a*2),     type(a))
+# a = float(input("first number: "))
+# b = float(input("second number: "))
+# c = (a+b)/2
+# print(c)
+# a = float(input())
+# b = float(input())
+# print(a>=b)
